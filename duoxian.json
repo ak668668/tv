@@ -47,11 +47,19 @@
         {
             "url": "https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B7%A7%E5%84%BF/api.json",
             "name": "巧儿本地"
-        },  		
+        }, 
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "菜妮丝官方"
+        },  
         {
             "url": "https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%8F%9C%E5%A6%AE%E4%B8%9D/api.json",
             "name": "菜妮丝本地"
         },
+        {
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "道长官方"
+        }, 
         {
             "url": "https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%81%93%E9%95%BFjs/api.json",
             "name": "道长本地"
@@ -69,20 +77,12 @@
             "name": "🐹云星日记"
         }, 
         {
-            "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
-            "name": "🐹月光宝盒"
-        },               
+            "url": "http://饭太硬.ml/tv",
+            "name": "饭太硬官方"
+        },                     
         {
-            "url": "http://52bsj.vip:98/wuai",
-            "name": "🐹吾爱线路"
-        },
-        {
-            "url": "https://weixine.net/ysc.json",
-            "name": "🐹运输车"
-        },         
-        {
-            "url":"https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tv/main/iptv.txt",
-            "name": "重庆直播"
+            "url":"https://gitcode.net/jy2066552/mys1/-/raw/master/jyy.json",
+            "name": "大全"
         } 
     ]
 }
