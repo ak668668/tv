@@ -1,0 +1,88 @@
+{
+    "urls": [
+        {
+            "url": "http://yydsys.top/duo",
+            "name": "多多官方"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%A4%9A%E5%A4%9A/api.json",
+            "name": "多多本地"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "小米官方"
+        }, 		
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B0%8F%E7%B1%B3/api.json",
+            "name": "小米本地"
+        },          
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风官方"
+        },                    
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8D%97%E9%A3%8E/api.json",
+            "name": "南风本地"
+        },                                                        
+        {
+            "url": "http://肥猫.love",
+            "name": "肥猫官方"
+        },                    
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%82%A5%E7%8C%AB/api.json",
+            "name": "肥猫本地"
+        },   
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "香雅情官方"
+        },                     
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%AB%98%E5%A4%A9%E6%B5%81%E4%BA%91XYQ/api.json",
+            "name": "香雅情本地"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🚀小米线路"
+        },   		
+        {
+            "url": "http://101.34.67.237/config/1",
+            "name": "🚀小雅线路"
+        },  		
+        {
+            "url": "https://la.kstore.space/download/2863/01.txt",
+            "name": "🐹潇洒线路"
+        },
+        {
+            "url": "https://la.kstore.space/download/2883/0110.txt",
+            "name": "🐹蚂蚁论坛线路"
+        },
+        {
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "name": "🐹欧歌线路"
+        }, 
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🐹南风线路"
+        },     
+        {
+            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
+            "name": "🐹云星日记"
+        }, 
+        {
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
+            "name": "🐹月光宝盒"
+        },               
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🐹吾爱线路"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🐹运输车"
+        },         
+        {
+            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymxx",
+            "name": "🐹夜猫子"
+        } 
+    ]
+}
