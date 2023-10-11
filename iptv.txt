@@ -63,6 +63,7 @@ IPTV相声小品,rtsp://123.147.112.17:8089/04000001/010000000040000000000000000
 重庆少儿,http://hls.live.cqccn.com/__cl/cg:live/__c/cqseHD/__op/default/__f/index.m3u8
 重庆时尚生活,http://hls.live.cqccn.com/__cl/cg:live/__c/cqssgwHD/__op/default/__f/index.m3u8
 重庆新农村,http://hls.live.cqccn.com/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
+万盛综合, https://qxlmlive9.cbg.cn/applive/wslive01/playlist.m3u8
 CCTV-1综合,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2财*,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV-3综艺,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
