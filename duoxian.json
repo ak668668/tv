@@ -33,7 +33,7 @@
             "name": "肥猫本地"
         },   
         {
-            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情官方"
         },                     
         {
@@ -43,9 +43,13 @@
         {
             "url": "http://rihou.cc:88/荷城茶秀",
             "name": "荷城茶秀官方"
-        },   		
+        }, 
         {
-            "url": "https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B7%A7%E5%84%BF/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/api.json",
+            "name": "荷城茶秀本地"
+        },        
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B7%A7%E5%84%BF/api.json",
             "name": "巧儿本地"
         }, 
         {
@@ -53,7 +57,7 @@
             "name": "菜妮丝官方"
         },  
         {
-            "url": "https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%8F%9C%E5%A6%AE%E4%B8%9D/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%8F%9C%E5%A6%AE%E4%B8%9D/api.json",
             "name": "菜妮丝本地"
         },
         {
@@ -61,24 +65,24 @@
             "name": "道长官方"
         }, 
         {
-            "url": "https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%81%93%E9%95%BFjs/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%81%93%E9%95%BFjs/api.json",
             "name": "道长本地"
         },
         {
-            "url": "https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json",
+            "url": "http://饭太硬.ml/tv",
+            "name": "饭太硬官方"
+        },         
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json",
             "name": "饭太硬本地"
         }, 
         {
-            "url": "https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%AB%98%E5%A4%A9%E6%B5%81%E4%BA%91js/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%AB%98%E5%A4%A9%E6%B5%81%E4%BA%91js/api.json",
             "name": "高山流云JS本地"
         },     
         {
             "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
             "name": "🐹云星日记"
-        }, 
-        {
-            "url": "http://饭太硬.ml/tv",
-            "name": "饭太硬官方"
         },                     
         {
             "url":"https://gitcode.net/jy2066552/mys1/-/raw/master/jyy.json",
