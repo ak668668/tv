@@ -81,12 +81,12 @@
             "name": "高山流云JS本地"
         },     
         {
-            "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-            "name": "🐹云星日记"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8A%A8%E6%BC%AB%E9%A2%91%E9%81%93/api.json",
+            "name": "动漫频道"
         },                     
         {
-            "url":"https://gitcode.net/jy2066552/mys1/-/raw/master/jyy.json",
-            "name": "大全"
+            "url":"https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/api.json",
+            "name": "少儿频道"
         } 
     ]
 }
