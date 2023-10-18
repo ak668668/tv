@@ -5,7 +5,7 @@
             "name": "多多官方"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%A4%9A%E5%A4%9A/api.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%A4%9A%E5%A4%9A/api.json",
             "name": "多多本地"
         },
         {
@@ -13,7 +13,7 @@
             "name": "小米官方"
         }, 		
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B0%8F%E7%B1%B3/api.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B0%8F%E7%B1%B3/api.json",
             "name": "小米本地"
         },          
         {
@@ -21,7 +21,7 @@
             "name": "南风官方"
         },                    
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8D%97%E9%A3%8E/api.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8D%97%E9%A3%8E/api.json",
             "name": "南风本地"
         },                                                        
         {
@@ -29,16 +29,20 @@
             "name": "肥猫官方"
         },                    
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%82%A5%E7%8C%AB/api.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%82%A5%E7%8C%AB/api.json",
             "name": "肥猫本地"
         },   
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情官方"
-        },                     
+        }, 
+                {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%AB%98%E5%A4%A9%E6%B5%81%E4%BA%91XYQ/api.json",
+            "name": "香雅情本地1"
+        },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQTVBox.json",
-            "name": "香雅情本地"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQTVBox.json",
+            "name": "香雅情本地2"
         },
         {
             "url": "http://rihou.cc:88/荷城茶秀",
