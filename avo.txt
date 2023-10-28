@@ -1,1 +1,2 @@
 ssis-926,https://adoda-smart-coin.mushroomtrack.com/hls/P7zpkbRWjLHumqliK738Ew/1698463016/36000/36946/36946.m3u8
+ssis-472,https://fuaf-uying.mushroomtrack.com/hls/2zH6052h6SQzkhlGXy_mGA/1698464169/25000/25809/25809.m3u8
