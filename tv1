@@ -55,6 +55,10 @@ CETV1高清,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000363
 快乐垂钓高清,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000382?AuthInfo=xxx&amp;userid=#rtsp://123.147.113.84:554/04000001/01000000004000000000000000000382?AuthInfo=
 IPTV相声小品,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000151?AuthInfo=xxx&amp;userid=#rtsp://123.147.113.84:554/04000001/01000000004000000000000000000151?AuthInfo=
 
+重庆联通组播,#genre#
+重庆少儿高清联通,http://x3322x.x3322.net:8887/udp/235.254.199.166:7980
+重庆时尚购物电信,http://x3322x.x3322.net:8889/udp/225.0.4.198:7980
+
 重庆电信组播,#genre#
 重庆卫视,http://125.82.171.210:8888/udp/235.254.199.173:7980#http://125.80.222.250:8888/udp/235.254.199.173:7980#http://14.105.22.172:20002/udp/235.254.199.173:7980
 重庆新闻,http://125.82.171.210:8888/udp/235.254.197.199:7980#http://125.80.222.250:8888/udp/235.254.197.199:7980#http://14.105.22.172:20002/udp/235.254.197.199:7980#https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
@@ -343,3 +347,18 @@ CHC-家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defau
 欢笑剧场4K,http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 CCTV4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV16-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+
+四川,#genre#
+四川1卫视,http://home.xzyxx.xyz:56789/hls/sxg.php?id=scwsH265_4000
+康巴卫视,http://home.xzyxx.xyz:56789/hls/sxg.php?id=kbwsH264_2000
+四川2经济,http://home.xzyxx.xyz:56789/hls/sxg.php?id=SCTV-2-H265_4000
+四川3文化旅游,http://home.xzyxx.xyz:56789/hls/sxg.php?id=SCTV-3-H265_4000
+四川4新闻,http://home.xzyxx.xyz:56789/hls/sxg.php?id=SCTV-4H265_4000
+四川5影视文艺,http://home.xzyxx.xyz:56789/hls/sxg.php?id=SCTV-5-scysH265_4000
+四川6星空购物,http://home.xzyxx.xyz:56789/hls/sxg.php?id=xkgwgq_4000
+四川7妇女儿童,http://home.xzyxx.xyz:56789/hls/sxg.php?id=SCTV-7-_4000
+四川8科教,http://home.xzyxx.xyz:56789/hls/sxg.php?id=SCTV-ggSCTV-8_4000
+四川9乡村,http://home.xzyxx.xyz:56789/hls/sxg.php?id=SCTV-kjSCTV-9-_4000
+四川峨眉电影,http://home.xzyxx.xyz:56789/hls/sxg.php?id=emdygqH265_4000
+川广融媒,http://home.xzyxx.xyz:56789/hls/sxg.php?id=cgrh_2000
+4K超高清电影,http://home.xzyxx.xyz:56789/hls/sxg.php?id=emdy4k_8000
