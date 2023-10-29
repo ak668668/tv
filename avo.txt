@@ -1,2 +1,4 @@
-ssis-926,https://adoda-smart-coin.mushroomtrack.com/hls/P7zpkbRWjLHumqliK738Ew/1698463016/36000/36946/36946.m3u8
-ssis-472,https://fuaf-uying.mushroomtrack.com/hls/2zH6052h6SQzkhlGXy_mGA/1698464169/25000/25809/25809.m3u8
+ssis-926,https://asutin-billion.mushroomtrack.com/hls/kD6nvCpfBTo4NU7wkz4APw/1698576471/36000/36946/36946.m3u8
+ssis-472,https://masno-terer.mushroomtrack.com/hls/gHj7zLDLDmYX4afw5hhlDQ/1698576142/25000/25809/25809.m3u8
+ssis-472w,https://cdn152.akamai-content-network.com/bcdn_token=lYR9MvtkYv8qANEWL4SKw-sBFp2Ufc1JBELY7tOeJyg&expires=1698736697&token_path=%2Fcfb9c694-70d6-44a2-a17a-dece07e139c0%2F/cfb9c694-70d6-44a2-a17a-dece07e139c0/playlist.m3u8
+STARS-927,https://amuse-lefty.mushroomtrack.com/hls/Is3fYkrwgk4AT6F7WbuSRA/1698576183/36000/36958/36958.m3u8
