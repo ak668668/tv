@@ -1,3 +1,6 @@
-ssis-926,https://adoda-smart-coin.mushroomtrack.com/hls/QHflc0pEhpMEC8qZ7c0xoA/1698648457/36000/36946/36946.m3u8
-ssis-472,https://masno-terer.mushroomtrack.com/hls/QJrd9vUnOkgric2ZIZ78bQ/1698648257/25000/25809/25809.m3u8
-STARS-927,https://anono-cloneing.mushroomtrack.com/hls/RBxn-Jx4QBtWAQBDPRPRRg/1698647874/36000/36958/36958.m3u8
+ssis-926,https://homi-doki-mani.mushroomtrack.com/hls/ObNrhQbYMLR7KeDtel_UTA/1698676472/36000/36946/36946.m3u8
+ssis-472,https://fuaf-uying.mushroomtrack.com/hls/qps-G140dWDFOH8lrcrHcA/1698676822/25000/25809/25809.m3u8
+STARS-927,https://asf-doc.mushroomtrack.com/hls/MpVwltVBHLJeUBcpMhB8qg/1698676783/36000/36958/36958.m3u8
+HMN-484,https://adoda-smart-coin.mushroomtrack.com/hls/8I6AAThiuqm1Re3_o3JrOw/1698676775/36000/36959/36959.m3u8
+MIDV-011，https://masmao-toera.mushroomtrack.com/hls/D7J1eKxiERX5J7P8PaUNCg/1698677068/20000/20422/20422.m3u8
+MIDE-974，https://masmao-toera.mushroomtrack.com/hls/mvDOKtiUsY_CODkq2qguLA/1698677034/18000/18911/18911.m3u8
