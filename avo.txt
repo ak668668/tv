@@ -38,4 +38,6 @@ TVBS新闻,http://iptv.xzyxx.xyz:9500/live.m3u8?c=12
 三立新闻,http://iptv.xzyxx.xyz:9500/live.m3u8?c=20
 YTN韩国,http://iptv.xzyxx.xyz:9500/live.m3u8?c=49
 中视,http://iptv.xzyxx.xyz:9500/live.m3u8?c=55
+CQTV新闻,http://172.23.2.101/PLTV/101/224/3221226650/10000100000000060000000000567649_0.smil
+CQTV影视超高清,rtsp://172.23.28.67:554/live/ch18122110072224750936.sdp?vcdnid=vcdn001
 
