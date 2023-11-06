@@ -8,6 +8,7 @@ FSDSS-702,https://amuse-lefty.mushroomtrack.com/hls/7q-KafA7_YuJIgCpv0LTmA/16991
 SAN-178,https://home-clone-clear.mushroomtrack.com/hls/69DIcAtRYe0vqtmBgMQ7Yw/1699109867/37000/37114/37114.m3u8
 CHUC-051,https://asf-doc.mushroomtrack.com/hls/ktpgtXrM38K09YZv4TgkqA/1699109915/37000/37038/37038.m3u8
 CEMD-089,https://masmao-toera.mushroomtrack.com/hls/wli1nFKvcZAeZLlzBct_Mg/1699165337/20000/20075/20075.m3u8
+JUL-953,https://video-4.ggjav.com/video_1/98455-JUL-953.mp4
 中视新闻,http://iptv.xzyxx.xyz:9500/live.m3u8?c=6
 民视新闻,http://iptv.xzyxx.xyz:9500/live.m3u8?c=7
 CTS华视新闻,http://iptv.xzyxx.xyz:9500/live.m3u8?c=8
