@@ -1,3 +1,4 @@
+sprd-1499,https://cdn1.akamai-content-delivery.com/31/vod2/17/60/z8mv4p8n_12a3dc61f80f4742e8d478478eedff049e2fb2555fb5be/720/v.m3u8
 ssis-926,https://astin-cowing.mushroomtrack.com/hls/uXI0eRT0-Q1IoRT7fObzqg/1699110198/36000/36946/36946.m3u8
 ssis-472,https://masno-terer.mushroomtrack.com/hls/mQMTNLyrgWMaDmHdBBsimw/1699109441/25000/25809/25809.m3u8
 HMN-484,https://adoda-smart-coin.mushroomtrack.com/hls/PkxekUUd9wKhrMdUGBXloQ/1699110221/36000/36959/36959.m3u8
