@@ -136,6 +136,3 @@ CHC-动作电影,http://hls.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/defau
 CHC-家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 凤凰卫视标清,http://hls.live.cqccn.com/__cl/cg:live/__c/xfjcHD/__op/default/__f/index.m3u8
 凤凰资讯标清,http://hls.live.cqccn.com/__cl/cg:live/__c/xfylHD/__op/default/__f/index.m3u8
-欢笑剧场4K,http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
-CCTV4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-CCTV16-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
