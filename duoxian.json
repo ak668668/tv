@@ -1,37 +1,13 @@
 {
-    "urls": [
-        {
-            "url": "http://yydsys",
-            "name": "多多官方"
-        },
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%A4%9A%E5%A4%9A/api.json",
-            "name": "多多本地"
-        },
-        {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
-            "name": "小米官方"
-        }, 		
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B0%8F%E7%B1%B3/api.json",
-            "name": "小米本地"
-        },          
-        {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风官方"
-        },                    
+    "urls": [                  
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8D%97%E9%A3%8E/api.json",
-            "name": "南风本地"
+            "name": "南风"
         },                                                        
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-            "name": "肥猫官方"
-        },                    
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%82%A5%E7%8C%AB/api.json",
-            "name": "肥猫本地"
-        },   
+            "name": "肥猫"
+        },                      
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情官方"
@@ -43,42 +19,6 @@
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQTVBox.json",
             "name": "香雅情本地2"
-        },
-        {
-            "url": "http://rihou.cc:88/荷城茶秀",
-            "name": "荷城茶秀官方"
-        }, 
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/api.json",
-            "name": "荷城茶秀本地"
-        },        
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B7%A7%E5%84%BF/api.json",
-            "name": "巧儿本地"
-        }, 
-        {
-            "url": "https://tvbox.cainisi.cf",
-            "name": "菜妮丝官方"
-        },  
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%8F%9C%E5%A6%AE%E4%B8%9D/api.json",
-            "name": "菜妮丝本地"
-        },
-        {
-            "url": "https://pastebin.com/raw/5NHaxyGR",
-            "name": "道长官方"
-        }, 
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%81%93%E9%95%BFjs/api.json",
-            "name": "道长本地"
-        },
-        {
-            "url": "http://饭太硬.ml/tv",
-            "name": "饭太硬官方"
-        },         
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/api.json",
-            "name": "饭太硬本地"
         } 
     ]
 }
