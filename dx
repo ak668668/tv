@@ -1,9 +1,5 @@
 {
-    "urls": [	
-        {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B0%8F%E7%B1%B3/api.json",
-            "name": "小米本地"
-        },                             
+    "urls": [	                            
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/ak668668/XYQTVBox/main/%E5%8D%97%E9%A3%8E/api.json",
             "name": "南风本地"
