@@ -1,11 +1,11 @@
 {
     "urls": [                  
         {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8D%97%E9%A3%8E/api.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8D%97%E9%A3%8E/api.json",
             "name": "南风"
         },                                                                             
         {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情"
         }
     ]
