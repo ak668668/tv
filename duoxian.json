@@ -1,12 +1,28 @@
 {
-    "urls": [                  
+    "urls": [	                            
+         {
+            "url": "https://cdn.jsdelivr.net/gh/ak668668/tvboxqq@main/%E5%8D%97%E9%A3%8E/api.json",
+            "name": "南风"
+        },                                                                          
         {
+            "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
+            "name": "香雅情"
+        },
+       {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8D%97%E9%A3%8E/api.json",
             "name": "南风"
-        },                                                                             
+        },                                                                          
         {
             "url": "https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情"
-        }
+        },
+        {
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8D%97%E9%A3%8E/api.json",
+            "name": "南风本地"
+        },                                                                          
+        {
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "香雅情"
+        } 
     ]
 }
