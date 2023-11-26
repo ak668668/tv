@@ -35,6 +35,14 @@
         {
             "url": "https://ghps.cc/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQTVBox.json",
             "name": "香雅情本地2"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风官方"
+        }, 
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "香雅情官方"
         } 
     ]
 }
