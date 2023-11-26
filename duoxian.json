@@ -1,28 +1,36 @@
 {
     "urls": [	                            
          {
-            "url": "https://cdn.jsdelivr.net/gh/ak668668/tvboxqq@main/%E5%8D%97%E9%A3%8E/api.json",
-            "name": "南风"
-        },                                                                          
-        {
-            "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
-            "name": "香雅情"
-        },
-       {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8D%97%E9%A3%8E/api.json",
-            "name": "南风"
-        },                                                                          
-        {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "香雅情"
-        },
-        {
-            "url": "https://ghps.cc/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%8D%97%E9%A3%8E/api.json",
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/Yoursmile/XC2.json",
             "name": "南风本地"
+        },
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQ.json",
+            "name": "香雅情本地"
+        }, 
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风官网"
+        }, 
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "香雅情官方"
+        },                                                                            
+       {
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/Yoursmile/XC2.json",
+            "name": "南风2"
         },                                                                          
         {
-            "url": "https://ghps.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "香雅情"
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQ.json",
+            "name": "香雅情2"
+        },
+        {
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/Yoursmile/XC2.json",
+            "name": "南风3"
+        },                                                                          
+        {
+            "url": "https://ghps.cc/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQ.json",
+            "name": "香雅情3"
         } 
     ]
 }
