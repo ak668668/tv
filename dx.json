@@ -8,45 +8,57 @@
             "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQTVBox.json",
             "name": "香雅情本地2"
         },
-       {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/drpy_js/drjs_config.json",
-            "name": "道长本地JS"
-        },
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/fty/fty.json",
-            "name": "饭太硬本地"
-        },
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/qiaoji/qjtvbox.json",
             "name": "巧计本地"
         },
        {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/Yoursmile/XC.json",
-            "name": "南风本地"
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "香雅情XYQ"
+        },
+       {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+            "name": "大而全XYQ"
+        },
+       {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "道长XYQ"
         },
         {
-            "url": "https://gh.con.sh/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQTVBox.json",
-            "name": "香雅情本地2"
+            "url": "https://git.886.be/https://github.com/gaotianliuyun/gao/blob/master/0826.json",
+            "name": "饭太硬XYQ"
+        },
+       {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+            "name": "fengmi-XYQ"
         },
         {
-            "url": "https://ghps.cc/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/Yoursmile/XC.json",
-            "name": "南风本地"
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+            "name": "小而精XYQ"
+        },
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json",
+            "name": "极简XYQ"
         }, 
         {
-            "url": "https://ghps.cc/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQTVBox.json",
-            "name": "香雅情本地2"
-        },
-        {
-            "url": "http://我不是.肥猫.live/",
-            "name": "肥猫"
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json",
+            "name": "小米XYQ"
         },
         {
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "南风官方"
         }, 
         {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "香雅情官方"
+            "url": "http://我不是.肥猫.live/",
+            "name": "肥猫官方"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "小米官方"
+        },        
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "多多官网"
         } 
     ]
 }
