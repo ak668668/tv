@@ -1,16 +1,16 @@
 {
     "urls": [	                            
          {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/Yoursmile/XC2.json",
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
             "name": "南风本地"
-        },
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/XYQTVBox/main/XYQ.json",
-            "name": "香雅情本地"
-        }, 
+        },                
        {
             "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情XYQ"
+        },        
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧技官网"
         },
        {
             "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
@@ -31,26 +31,18 @@
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
             "name": "小而精XYQ"
-        }, 
+        },
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json",
             "name": "小米XYQ"
         },
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "南风官方"
-        }, 
-        {
             "url": "http://我不是.肥猫.live/",
             "name": "肥猫官方"
-        },
+        },     
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
             "name": "小米官方"
-        },        
-        {
-            "url": "https://yydsys.top/duo",
-            "name": "多多官网"
         } 
     ]
 }
