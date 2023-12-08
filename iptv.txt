@@ -63,7 +63,7 @@ IPTV相声小品,rtsp://123.147.112.17:8089/04000001/010000000040000000000000000
 重庆新农村,http://117.59.116.36/__cl/cg:live/__c/cqggncHD/__op/default/__f/index.m3u8
 万盛综合,https://qxlmlive9.cbg.cn/applive/wslive01/playlist.m3u8
 CCTV-1综合,http://117.59.116.36/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV-2财*,http://117.59.116.36/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
+CCTV-2财经,http://117.59.116.36/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV-3综艺,http://117.59.116.36/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
 CCTV-4国际,http://117.59.116.36/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
 CCTV-5体育,http://117.59.116.36/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
@@ -134,7 +134,3 @@ CHC-动作电影,http://117.59.116.36/__cl/cg:live/__c/chcdzdyHD/__op/default/__
 CHC-家庭影院,http://117.59.116.36/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 凤凰卫视标清,http://117.59.116.36/__cl/cg:live/__c/xfjcHD/__op/default/__f/index.m3u8
 凤凰资讯标清,http://117.59.116.36/__cl/cg:live/__c/xfylHD/__op/default/__f/index.m3u8
-
-魅力足球,http://222.182.189.108:4022/udp/235.254.197.173:7980
-梨园频道,http://222.182.189.108:4022/udp/235.254.199.163:7980
-
