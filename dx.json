@@ -7,18 +7,22 @@
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/XYQ/main/XYQ.json",
             "name": "香雅情本地2"
-        },        
+        }, 
         {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "巧技官网"
-        },
-       {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "道长XYQ"
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/LY/main/%E7%90%89%E8%8A%B8.json",
+            "name": "琉芸"
         },
         {
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬"
+        },               
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧技"
+        },
+       {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "道长"
         },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
@@ -27,9 +31,9 @@
         {
             "url": "https://xn--z7x900a.live/",
             "name": "肥猫"
-        },      
+        },              
         {
-            "url": "clan://localhost/XYQTVBox/XYQTVBox.json",
+            "url": "clan://localhost/XYQTVBox/dj.json",
             "name": "本地"
         } 
     ]
