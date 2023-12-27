@@ -229,3 +229,17 @@ CCTV-央视台球,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tliveclo
 东方卫视,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
 安徽卫视,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel23/index.m3u8
 东南卫视,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel80/index.m3u8
+深圳,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel17/index.m3u8
+陕西,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
+天津,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
+西藏,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel66/index.m3u8
+吉林,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
+云南,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel61/index.m3u8
+东南,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel80/index.m3u8
+浙江,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel19/index.m3u8
+湖北,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/index.m3u8
+江苏,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel18/index.m3u8
+广东,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel16/index.m3u8
+兵团,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel67/index.m3u8
+四川,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel31/index.m3u8
+北京,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
