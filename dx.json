@@ -31,7 +31,11 @@
         {
             "url": "https://xn--z7x900a.live/",
             "name": "肥猫"
-        },              
+        },   
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "香雅情官方"
+        }, 
         {
             "url": "clan://localhost/XYQTVBox/dj.json",
             "name": "本地"
