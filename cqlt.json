@@ -1,0 +1,627 @@
+[
+    {
+        "name": "CCTV-1高清",
+        "multiCastUrl": "rtp://225.0.4.74:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.74:7980"
+    },
+    {
+        "name": "CCTV-2高清",
+        "multiCastUrl": "rtp://225.0.4.132:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000295?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.132:7980"
+    },
+    {
+        "name": "CCTV-3高清",
+        "multiCastUrl": "rtp://225.0.4.142:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000302?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.142:7980"
+    },
+    {
+        "name": "CCTV-4高清",
+        "multiCastUrl": "rtp://225.0.4.176:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000342?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.176:7980"
+    },
+    {
+        "name": "CCTV-5高清",
+        "multiCastUrl": "rtp://225.0.4.143:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.143:7980"
+    },
+    {
+        "name": "CCTV-5+高清",
+        "multiCastUrl": "rtp://225.0.4.73:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.73:7980"
+    },
+    {
+        "name": "CCTV-6高清",
+        "multiCastUrl": "rtp://225.0.4.144:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000305?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.144:7980"
+    },
+    {
+        "name": "CCTV-7高清",
+        "multiCastUrl": "rtp://225.0.4.127:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000290?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.127:7980"
+    },
+    {
+        "name": "CCTV-8高清",
+        "multiCastUrl": "rtp://225.0.4.137:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000307?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.137:7980"
+    },
+    {
+        "name": "CCTV-9高清",
+        "multiCastUrl": "rtp://225.0.4.131:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000294?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.131:7980"
+    },
+    {
+        "name": "CCTV-10高清",
+        "multiCastUrl": "rtp://225.0.4.130:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000293?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.130:7980"
+    },
+    {
+        "name": "CCTV-11高清",
+        "multiCastUrl": "rtp://225.0.4.218:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000389?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.218:7980"
+    },
+    {
+        "name": "CCTV-12高清",
+        "multiCastUrl": "rtp://225.0.4.129:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000292?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.129:7980"
+    },
+    {
+        "name": "CCTV-13高清",
+        "multiCastUrl": "rtp://225.0.4.219:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000387?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.219:7980"
+    },
+    {
+        "name": "CCTV-14少儿高清",
+        "multiCastUrl": "rtp://225.0.4.128:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000291?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.128:7980"
+    },
+    {
+        "name": "CCTV-15高清",
+        "multiCastUrl": "rtp://225.0.4.220:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000388?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.220:7980"
+    },
+    {
+        "name": "CCTV-17高清",
+        "multiCastUrl": "rtp://225.0.4.179:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.179:7980"
+    },
+    {
+        "name": "重庆卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.187:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.187:7980"
+    },
+    {
+        "name": "重庆新闻超高清",
+        "multiCastUrl": "rtp://225.0.4.188:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.188:7980"
+    },
+    {
+        "name": "重庆影视超高清",
+        "multiCastUrl": "rtp://225.0.4.192:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.192:7980"
+    },
+    {
+        "name": "重庆社会与法超高清",
+        "multiCastUrl": "rtp://225.0.4.190:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.190:7980"
+    },
+    {
+        "name": "重庆时尚生活超高清",
+        "multiCastUrl": "rtp://225.0.4.196:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.196:7980"
+    },
+    {
+        "name": "重庆娱乐超高清",
+        "multiCastUrl": "rtp://225.0.4.194:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.194:7980"
+    },
+    {
+        "name": "重庆新农村超高清",
+        "multiCastUrl": "rtp://225.0.4.189:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.189:7980"
+    },
+    {
+        "name": "重庆少儿超高清",
+        "multiCastUrl": "rtp://225.0.4.191:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.191:7980"
+    },
+    {
+        "name": "重庆科教超高清",
+        "multiCastUrl": "rtp://225.0.4.193:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.193:7980"
+    },
+    {
+        "name": "重庆汽摩超高清",
+        "multiCastUrl": "rtp://225.0.4.195:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.195:7980"
+    },
+    {
+        "name": "CQTV移动超高清",
+        "multiCastUrl": "rtp://225.0.4.215:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000384?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.215:7980"
+    },
+    {
+        "name": "时尚购物超高清",
+        "multiCastUrl": "rtp://225.0.4.198:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000366?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.198:7980"
+    },
+    {
+        "name": "湖南卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.75:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.75:7980"
+    },
+    {
+        "name": "浙江卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.81:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.81:7980"
+    },
+    {
+        "name": "江苏卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.79:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.79:7980"
+    },
+    {
+        "name": "东方卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.80:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.80:7980"
+    },
+    {
+        "name": "安徽卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.133:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.133:7980"
+    },
+    {
+        "name": "贵州卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.175:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.175:7980"
+    },
+    {
+        "name": "天津卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.82:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.82:7980"
+    },
+    {
+        "name": "辽宁卫视高清",
+        "multiCastUrl": "rtp://225.0.4.98:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.98:7980"
+    },
+    {
+        "name": "河北卫视高清",
+        "multiCastUrl": "rtp://225.0.4.174:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.174:7980"
+    },
+    {
+        "name": "北京卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.78:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.78:7980"
+    },
+    {
+        "name": "广东卫视高清",
+        "multiCastUrl": "rtp://225.0.4.84:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.84:7980"
+    },
+    {
+        "name": "黑龙江卫视超高清",
+        "multiCastUrl": "\r\nrtp://225.0.4.201:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000227?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.201:7980"
+    },
+    {
+        "name": "四川卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.204:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.204:7980"
+    },
+    {
+        "name": "山西卫视",
+        "multiCastUrl": "rtp://225.0.4.37:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000179?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.37:7980"
+    },
+    {
+        "name": "江西卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.203:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000378?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.203:7980"
+    },
+    {
+        "name": "湖北卫视高清",
+        "multiCastUrl": "rtp://225.0.4.217:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.217:7980"
+    },
+    {
+        "name": "海南卫视高清",
+        "multiCastUrl": "rtp://225.0.4.216:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000385?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.216:7980"
+    },
+    {
+        "name": "陕西卫视",
+        "multiCastUrl": "rtp://225.0.4.36:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000189?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.36:7980"
+    },
+    {
+        "name": "东南卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.200:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000379?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.200:7980"
+    },
+    {
+        "name": "吉林卫视高清",
+        "multiCastUrl": "rtp://225.0.4.225:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000390?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.225:7980"
+    },
+    {
+        "name": "深圳卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.202:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.202:7980"
+    },
+    {
+        "name": "内蒙古卫视",
+        "multiCastUrl": "rtp://225.0.4.38:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000180?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.38:7980"
+    },
+    {
+        "name": "山东卫视超高清",
+        "multiCastUrl": "rtp://225.0.4.199:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.199:7980"
+    },
+    {
+        "name": "云南卫视",
+        "multiCastUrl": "rtp://225.0.4.21:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.21:7980"
+    },
+    {
+        "name": "河南卫视",
+        "multiCastUrl": "rtp://225.0.4.22:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000192?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.22:7980"
+    },
+    {
+        "name": "广西卫视",
+        "multiCastUrl": "rtp://225.0.4.34:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000191?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.34:7980"
+    },
+    {
+        "name": "宁夏卫视",
+        "multiCastUrl": "rtp://225.0.4.41:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000194?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.41:7980"
+    },
+    {
+        "name": "甘肃卫视",
+        "multiCastUrl": "rtp://225.0.4.44:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000184?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.44:7980"
+    },
+    {
+        "name": "嘉佳卡通",
+        "multiCastUrl": "rtp://225.0.4.221:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000386?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.221:7980"
+    },
+    {
+        "name": "卡酷动画",
+        "multiCastUrl": "rtp://225.0.4.45:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000159?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.45:7980"
+    },
+    {
+        "name": "金鹰卡通",
+        "multiCastUrl": "rtp://225.0.4.46:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000162?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.46:7980"
+    },
+    {
+        "name": "青海卫视",
+        "multiCastUrl": "rtp://225.0.4.39:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000182?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.39:7980"
+    },
+    {
+        "name": "新疆卫视",
+        "multiCastUrl": "rtp://225.0.4.43:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000181?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.43:7980"
+    },
+    {
+        "name": "西藏卫视",
+        "multiCastUrl": "rtp://225.0.4.42:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000178?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.42:7980"
+    },
+    {
+        "name": "纪实高清",
+        "multiCastUrl": "rtp://225.0.4.99:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000275?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.99:7980"
+    },
+    {
+        "name": "CGTN",
+        "multiCastUrl": "rtp://225.0.4.12:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000344?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.12:7980"
+    },
+    {
+        "name": "全纪实",
+        "multiCastUrl": "rtp://225.0.4.113:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000276?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.113:7980"
+    },
+    {
+        "name": "财富天下",
+        "multiCastUrl": "rtp://225.0.4.112:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000263?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.112:7980"
+    },
+    {
+        "name": "家有购物",
+        "multiCastUrl": "rtp://225.0.4.214:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000383?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.214:7980"
+    },
+    {
+        "name": "山东教育",
+        "multiCastUrl": "rtp://225.0.4.177:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000339?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.177:7980"
+    },
+    {
+        "name": "CETV1高清",
+        "multiCastUrl": "rtp://225.0.4.186:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000363?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.186:7980"
+    },
+    {
+        "name": "CETV4",
+        "multiCastUrl": "rtp://225.0.4.185:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000362?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.185:7980"
+    },
+    {
+        "name": "快乐垂钓",
+        "multiCastUrl": "rtp://225.0.4.213:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000382?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.213:7980"
+    },
+    {
+        "name": "茶高清",
+        "multiCastUrl": "rtp://225.0.4.233:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000395?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.233:7980"
+    },
+    {
+        "name": "求索纪录",
+        "multiCastUrl": "rtp://225.0.4.232:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000397?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.232:7980"
+    },
+    {
+        "name": "精彩影视",
+        "multiCastUrl": "rtp://225.0.4.231:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000396?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.231:7980"
+    },
+    {
+        "name": "CHC家庭影院",
+        "multiCastUrl": "rtp://225.0.4.228:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000393?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.228:7980"
+    },
+    {
+        "name": "CHC动作电影",
+        "multiCastUrl": "rtp://225.0.4.229:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000392?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.229:7980"
+    },
+    {
+        "name": "CHC高清电影",
+        "multiCastUrl": "rtp://225.0.4.230:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000394?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.230:7980"
+    },
+    {
+        "name": "重庆卫视",
+        "multiCastUrl": "rtp://225.0.4.30:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000193?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.30:7980"
+    },
+    {
+        "name": "CQTV新闻",
+        "multiCastUrl": "rtp://225.0.4.59:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000258?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.59:7980"
+    },
+    {
+        "name": "CQTV影视",
+        "multiCastUrl": "rtp://225.0.4.62:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000257?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.62:7980"
+    },
+    {
+        "name": "CQTV社会与法",
+        "multiCastUrl": "rtp://225.0.4.64:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000255?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.64:7980"
+    },
+    {
+        "name": "CQTV时尚生活",
+        "multiCastUrl": "rtp://225.0.4.69:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000252?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.69:7980"
+    },
+    {
+        "name": "CQTV娱乐",
+        "multiCastUrl": "rtp://225.0.4.65:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000254?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.65:7980"
+    },
+    {
+        "name": "CQTV新农村",
+        "multiCastUrl": "rtp://225.0.4.70:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000253?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.70:7980"
+    },
+    {
+        "name": "CQTV少儿",
+        "multiCastUrl": "rtp://225.0.4.71:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000245?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.71:7980"
+    },
+    {
+        "name": "CQTV科教",
+        "multiCastUrl": "rtp://225.0.4.63:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000256?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.63:7980"
+    },
+    {
+        "name": "CQTV汽摩",
+        "multiCastUrl": "rtp://225.0.4.61:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000364?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.61:7980"
+    },
+    {
+        "name": "CQTV移动",
+        "multiCastUrl": "rtp://225.0.4.68:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000249?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.68:7980"
+    },
+    {
+        "name": "CCTV-1",
+        "multiCastUrl": "rtp://225.0.4.1:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000285?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.1:7980"
+    },
+    {
+        "name": "CCTV-2",
+        "multiCastUrl": "rtp://225.0.4.2:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000219?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.2:7980"
+    },
+    {
+        "name": "CCTV-3",
+        "multiCastUrl": "rtp://225.0.4.138:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000343?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.138:7980"
+    },
+    {
+        "name": "CCTV-4",
+        "multiCastUrl": "rtp://225.0.4.3:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000210?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.3:7980"
+    },
+    {
+        "name": "CCTV-5",
+        "multiCastUrl": "rtp://225.0.4.139:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000303?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.139:7980"
+    },
+    {
+        "name": "CCTV-6",
+        "multiCastUrl": "rtp://225.0.4.140:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000306?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.140:7980"
+    },
+    {
+        "name": "CCTV-7",
+        "multiCastUrl": "rtp://225.0.4.4:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000212?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.4:7980"
+    },
+    {
+        "name": "CCTV-8",
+        "multiCastUrl": "rtp://225.0.4.141:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000308?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.141:7980"
+    },
+    {
+        "name": "CCTV-9",
+        "multiCastUrl": "rtp://225.0.4.5:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000214?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.5:7980"
+    },
+    {
+        "name": "CCTV-10",
+        "multiCastUrl": "rtp://225.0.4.6:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000213?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.6:7980"
+    },
+    {
+        "name": "CCTV-11",
+        "multiCastUrl": "rtp://225.0.4.7:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000220?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.7:7980"
+    },
+    {
+        "name": "CCTV-12",
+        "multiCastUrl": "rtp://225.0.4.8:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000218?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.8:7980"
+    },
+    {
+        "name": "CCTV-13",
+        "multiCastUrl": "rtp://225.0.4.9:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000217?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.9:7980"
+    },
+    {
+        "name": "CCTV-14",
+        "multiCastUrl": "rtp://225.0.4.10:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000215?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.10:7980"
+    },
+    {
+        "name": "CCTV-15",
+        "multiCastUrl": "rtp://225.0.4.11:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000216?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.11:7980"
+    },
+    {
+        "name": "CCTV-17",
+        "multiCastUrl": "rtp://225.0.4.180:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000348?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.180:7980"
+    },
+    {
+        "name": "江苏卫视",
+        "multiCastUrl": "rtp://225.0.4.15:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000205?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.15:7980"
+    },
+    {
+        "name": "浙江卫视",
+        "multiCastUrl": "rtp://225.0.4.14:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000206?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.14:7980"
+    },
+    {
+        "name": "东方卫视",
+        "multiCastUrl": "rtp://225.0.4.29:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000199?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.29:7980"
+    },
+    {
+        "name": "北京卫视",
+        "multiCastUrl": "rtp://225.0.4.17:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000204?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.17:7980"
+    },
+    {
+        "name": "天津卫视",
+        "multiCastUrl": "rtp://225.0.4.18:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000186?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.18:7980"
+    },
+    {
+        "name": "贵州卫视",
+        "multiCastUrl": "rtp://225.0.4.26:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000196?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.26:7980"
+    },
+    {
+        "name": "山东卫视",
+        "multiCastUrl": "rtp://225.0.4.20:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000183?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.20:7980"
+    },
+    {
+        "name": "四川卫视",
+        "multiCastUrl": "rtp://225.0.4.24:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000203?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.24:7980"
+    },
+    {
+        "name": "江西卫视",
+        "multiCastUrl": "rtp://225.0.4.25:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000202?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.25:7980"
+    },
+    {
+        "name": "湖北卫视",
+        "multiCastUrl": "rtp://225.0.4.28:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000185?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.28:7980"
+    },
+    {
+        "name": "安徽卫视",
+        "multiCastUrl": "rtp://225.0.4.16:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000200?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.16:7980"
+    },
+    {
+        "name": "海南卫视",
+        "multiCastUrl": "rtp://225.0.4.40:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000190?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.40:7980"
+    },
+    {
+        "name": "吉林卫视",
+        "multiCastUrl": "rtp://225.0.4.35:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000187?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.35:7980"
+    },
+    {
+        "name": "辽宁卫视",
+        "multiCastUrl": "rtp://225.0.4.19:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000201?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.19:7980"
+    },
+    {
+        "name": "东南卫视",
+        "multiCastUrl": "rtp://225.0.4.31:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000195?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.31:7980"
+    },
+    {
+        "name": "湖南卫视",
+        "multiCastUrl": "rtp://225.0.4.13:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000207?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.13:7980"
+    },
+    {
+        "name": "广东卫视",
+        "multiCastUrl": "rtp://225.0.4.33:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000188?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.33:7980"
+    },
+    {
+        "name": "深圳卫视",
+        "multiCastUrl": "rtp://225.0.4.27:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000177?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.27:7980"
+    },
+    {
+        "name": "河北卫视",
+        "multiCastUrl": "rtp://225.0.4.32:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000197?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.32:7980"
+    },
+    {
+        "name": "黑龙江卫视",
+        "multiCastUrl": "rtp://225.0.4.23:7980",
+        "playUrl": "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000198?AuthInfo=xxx&userid=gf001&userid=gf001;igmp://225.0.4.23:7980"
+    }
+]
