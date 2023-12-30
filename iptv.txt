@@ -210,7 +210,6 @@ cctv10,http://183.134.3.22:8888/newlive/live/hls/11/live.m3u8
 cctv12,http://183.134.3.22:8888/newlive/live/hls/13/live.m3u8
 cctv13,http://183.134.3.22:8888/newlive/live/hls/14/live.m3u8
 cctv14,http://183.134.3.22:8888/newlive/live/hls/15/live.m3u8
-1,http://183.134.3.22:8888/newlive/live/hls/1/live.m3u8
 东方,http://183.134.3.22:8888/newlive/live/hls/19/live.m3u8
 广东,http://183.134.3.22:8888/newlive/live/hls/20/live.m3u8
 江苏,http://183.134.3.22:8888/newlive/live/hls/21/live.m3u8
