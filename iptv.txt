@@ -200,6 +200,9 @@ CETV4,http://123.144.29.5:8004/udp/225.0.4.185:7980#http://123.144.182.63:8004/u
 测试1227更新,#genre#
 CCTV1,http://183.134.3.22:8888/newlive/live/hls/2/live.m3u8
 CCTV2,http://183.134.3.22:8888/newlive/live/hls/3/live.m3u8
+cctv3,http://183.134.3.22:8888/newlive/live/hls/4/live.m3u8
+cctv5,http://183.134.3.22:8888/newlive/live/hls/6/live.m3u8
+cctv6,http://183.134.3.22:8888/newlive/live/hls/7/live.m3u8
 CCTV7,http://183.134.3.22:8888/newlive/live/hls/8/live.m3u8
 cctv8,http://183.134.3.22:8888/newlive/live/hls/9/live.m3u8
 cctv9,http://183.134.3.22:8888/newlive/live/hls/10/live.m3u8
@@ -208,7 +211,6 @@ cctv12,http://183.134.3.22:8888/newlive/live/hls/13/live.m3u8
 cctv13,http://183.134.3.22:8888/newlive/live/hls/14/live.m3u8
 cctv14,http://183.134.3.22:8888/newlive/live/hls/15/live.m3u8
 1,http://183.134.3.22:8888/newlive/live/hls/1/live.m3u8
-cctv5,http://183.134.3.22:8888/newlive/live/hls/6/live.m3u8
 东方,http://183.134.3.22:8888/newlive/live/hls/19/live.m3u8
 广东,http://183.134.3.22:8888/newlive/live/hls/20/live.m3u8
 江苏,http://183.134.3.22:8888/newlive/live/hls/21/live.m3u8
@@ -216,20 +218,7 @@ cctv5,http://183.134.3.22:8888/newlive/live/hls/6/live.m3u8
 深圳,http://183.134.3.22:8888/newlive/live/hls/27/live.m3u8
 湖南,http://183.134.3.22:8888/newlive/live/hls/22/live.m3u8
 安徽,http://183.134.3.22:8888/newlive/live/hls/24/live.m3u8
-38,http://183.134.3.22:8888/newlive/live/hls/38/live.m3u8
-4,http://183.134.3.22:8888/newlive/live/hls/4/live.m3u8
-28,http://183.134.3.22:8888/newlive/live/hls/28/live.m3u8
-42,http://183.134.3.22:8888/newlive/live/hls/42/live.m3u8
-51,http://183.134.3.22:8888/newlive/live/hls/51/live.m3u8
-18,http://183.134.3.22:8888/newlive/live/hls/18/live.m3u8
-44,http://183.134.3.22:8888/newlive/live/hls/44/live.m3u8
-40,http://183.134.3.22:8888/newlive/live/hls/40/live.m3u8
-47,http://183.134.3.22:8888/newlive/live/hls/47/live.m3u8
-7,http://183.134.3.22:8888/newlive/live/hls/7/live.m3u8
-32,http://183.134.3.22:8888/newlive/live/hls/32/live.m3u8
-53,http://183.134.3.22:8888/newlive/live/hls/53/live.m3u8
-30,http://183.134.3.22:8888/newlive/live/hls/30/live.m3u8
-35,http://183.134.3.22:8888/newlive/live/hls/35/live.m3u8
-142,http://183.134.3.22:8888/newlive/live/hls/142/live.m3u8
-56,http://183.134.3.22:8888/newlive/live/hls/56/live.m3u8
+北京,http://183.134.3.22:8888/newlive/live/hls/18/live.m3u8
+天津,http://183.134.3.22:8888/newlive/live/hls/40/live.m3u8
+
 
