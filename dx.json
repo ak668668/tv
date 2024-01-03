@@ -31,17 +31,25 @@
         {
             "url": "https://xn--z7x900a.live/",
             "name": "肥猫"
-        },   
+        }, 
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情官方"
-        },
+        },  
+        {
+            "url": "https://notabug.org/liuyun/H-2023/raw/master/%e7%90%89%e8%8a%b8.json",
+            "name": "琉芸官网"
+        },  
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
             "name": "pg"
-        },
+        },   
         {
-            "url": "clan://localhost/XYQTVBox/dj.json",
+            "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json",
+            "name": "my"
+        },                                  
+        {
+            "url": "clan://localhost/XYQTVBox/yyxs.json",
             "name": "本地"
         } 
     ]
