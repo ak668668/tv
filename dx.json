@@ -25,7 +25,7 @@
             "name": "道长"
         },
         {
-            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B0%8F%E7%B1%B3/api.json",
             "name": "小米"
         },
         {
@@ -46,8 +46,24 @@
         },   
         {
             "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json",
-            "name": "my"
-        },                                  
+            "name": "摸鱼"
+        },
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
+            "name": "短剧"
+        },  
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%AA%9A%E9%9B%B6/api.json",
+            "name": "骚零"
+        },   
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json",
+            "name": "天天开心"
+        }, 
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/api.jsonn",
+            "name": "荷城茶秀"
+        },                                                      
         {
             "url": "clan://localhost/XYQTVBox/yyxs.json",
             "name": "本地"
