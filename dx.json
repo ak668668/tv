@@ -35,7 +35,11 @@
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情官方"
-        }, 
+        },
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
+            "name": "pg"
+        },
         {
             "url": "clan://localhost/XYQTVBox/dj.json",
             "name": "本地"
