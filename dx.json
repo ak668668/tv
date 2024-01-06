@@ -3,11 +3,19 @@
          {
             "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
             "name": "南风本地"
-        },                                                                               
+        },  
         {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/XYQ/main/XYQ.json",
-            "name": "香雅情本地2"
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "香雅情官方"
         }, 
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
+            "name": "pg"
+        },          
+        {
+            "url": "https://xn--z7x900a.live/",
+            "name": "肥猫"
+        },                                                                                                
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/ly/main/%E7%90%89%E8%8A%B8.json",
             "name": "琉芸"
@@ -17,53 +25,9 @@
             "name": "饭太硬"
         },               
         {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "巧技"
-        },
-       {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "道长"
-        },
-        {
             "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%B0%8F%E7%B1%B3/api.json",
             "name": "小米"
-        },
-        {
-            "url": "https://xn--z7x900a.live/",
-            "name": "肥猫"
-        }, 
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "香雅情官方"
-        },  
-        {
-            "url": "https://notabug.org/liuyun/H-2023/raw/master/%e7%90%89%e8%8a%b8.json",
-            "name": "琉芸官网"
-        },  
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
-            "name": "pg"
-        },   
-        {
-            "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyu.json",
-            "name": "摸鱼"
-        },
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
-            "name": "短剧"
-        },  
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E9%AA%9A%E9%9B%B6/api.json",
-            "name": "骚零"
-        },   
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E5%A4%A9%E5%A4%A9%E5%BC%80%E5%BF%83/api.json",
-            "name": "天天开心"
-        }, 
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/tvboxqq/main/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/api.jsonn",
-            "name": "荷城茶秀"
-        },                                                      
+        },                                                            
         {
             "url": "clan://localhost/XYQTVBox/yyxs.json",
             "name": "本地"
