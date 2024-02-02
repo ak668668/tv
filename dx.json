@@ -8,22 +8,18 @@
             "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情官方"
         }, 
-        {
+         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
             "name": "pg"
-        },          
+        }, 
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/pg2/main/jsm.json",
+            "name": "pg2"
+        },                 
         {
             "url": "https://xn--z7x900a.live/",
             "name": "肥猫"
-        }, 
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/ok/main/ok.json ",
-            "name": "OK"
         },                                                                                                        
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/ak668668/ly/main/%E7%90%89%E8%8A%B8.json",
-            "name": "琉芸"
-        },
         {
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬"
@@ -35,7 +31,15 @@
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json",
             "name": "小米"
-        },                                                            
+        },  
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json ",
+            "name": "OKxyq"
+        },  
+        {
+            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json ",
+            "name": "PGxyq"
+        },                                                                          
         {
             "url": "clan://localhost/XYQTVBox/jsm.json",
             "name": "本地"
