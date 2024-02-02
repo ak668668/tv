@@ -27,11 +27,7 @@
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "香雅情2"
-        },               
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json",
-            "name": "小米"
-        },                                                                           
+        },                                                                                        
         {
             "url": "clan://localhost/XYQTVBox/jsm.json",
             "name": "本地"
