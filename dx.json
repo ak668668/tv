@@ -31,15 +31,7 @@
         {
             "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json",
             "name": "小米"
-        },  
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json ",
-            "name": "OKxyq"
-        },  
-        {
-            "url": "https://git.886.be/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json ",
-            "name": "PGxyq"
-        },                                                                          
+        },                                                                           
         {
             "url": "clan://localhost/XYQTVBox/jsm.json",
             "name": "本地"
