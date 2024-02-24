@@ -89,7 +89,6 @@ CQTV科教,http://123.145.19.173:8005/udp/225.0.4.63:7980#http://123.145.50.158:
 CQTV汽摩,http://123.145.19.173:8005/udp/225.0.4.61:7980#http://123.145.50.158:8005/udp/225.0.4.61:7980
 CQTV移动,http://123.145.19.173:8005/udp/225.0.4.68:7980#http://123.145.50.158:8005/udp/225.0.4.68:7980
 万盛综合,https://qxlmlive9.cbg.cn/applive/wslive01/playlist.m3u8
-央视频道,#genre#
 CCTV1,http://175.0.50.196:8899/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://1.194.50.166:10086/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://112.235.202.159:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
