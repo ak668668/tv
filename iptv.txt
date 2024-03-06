@@ -65,7 +65,7 @@ IPTV相声小品,rtsp://123.147.112.17:8089/04000001/010000000040000000000000000
 第一剧场HD,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php
 
-三网通用0301更新,#genre#
+三网通用,#genre#
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 CCTV13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
