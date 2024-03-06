@@ -15,7 +15,11 @@
         {
             "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ak668668/pg2/main/jsm.json",
             "name": "pg稳定版"
-        },                         
+        }, 
+        {
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ak668668/pg3/main/jsm.json",
+            "name": "pg3"
+        },                                 
         {
             "url": "https://xn--z7x900a.live/",
             "name": "肥猫"
