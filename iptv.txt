@@ -67,6 +67,9 @@ CCTV4K,http://lu1.cc/itv/php/cctv4k.php
 
 三网通用0301更新,#genre#
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+CCTV13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
+CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 CQTV新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
 CQTV新闻,http://123.145.27.103:8005/udp/225.0.4.59:7980#http://123.145.34.184:8005/udp/225.0.4.59:7980
 CQTV娱乐,http://123.145.27.103:8005/udp/225.0.4.65:7980#http://123.145.34.184:8005/udp/225.0.4.65:7980
@@ -74,9 +77,6 @@ CQTV影视,http://123.145.27.103:8005/udp/225.0.4.62:7980#http://123.145.34.184:
 CQTV社会与法,http://123.145.27.103:8005/udp/225.0.4.64:7980#http://123.145.34.184:8005/udp/225.0.4.64:7980
 CQTV时尚生活,http://123.145.27.103:8005/udp/225.0.4.69:7980#http://123.145.34.184:8005/udp/225.0.4.69:7980
 CQTV新农村,http://123.145.27.103:8005/udp/225.0.4.70:7980#http://123.145.34.184:8005/udp/225.0.4.70:7980
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
-CCTV13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
-CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 万盛综合,https://qxlmlive9.cbg.cn/applive/wslive01/playlist.m3u8
 CCTV1,http://58.210.60.226:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://123.160.233.118:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
