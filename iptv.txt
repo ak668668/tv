@@ -1102,6 +1102,17 @@ CETV-4,https://live.cbncdn.cn/live.php?id=cetv-4SD
 靓妆,https://live.cbncdn.cn/live.php?id=liang
 CCTV4K超高清,https://live.cbncdn.cn/live.php?id=CCTV4K
 欢笑剧场4K超高清,https://live.cbncdn.cn/live.php?id=hxjc_4K
+重庆新闻,https://tv.iill.top/cqyx/CQTVNewsHD
+重庆影视,https://tv.iill.top/cqyx/cqyingshiHD
+重庆社会与法,https://tv.iill.top/cqyx/CQTVTrendyHD
+重庆时尚生活,https://tv.iill.top/cqyx/cqssgwHD
+重庆文体娱乐,https://tv.iill.top/cqyx/cqwtylHD
+重庆新农村,https://tv.iill.top/cqyx/cqggncHD
+重庆少儿,https://tv.iill.top/cqyx/cqseHD
+重庆科教,https://tv.iill.top/cqyx/CQTVkejiaoHD
+重庆汽摩,https://tv.iill.top/cqyx/cqcarSD
+重庆移动,https://tv.iill.top/cqyx/mryyHD
+重广融媒,https://tv.iill.top/cqyx/cqrongmei
 CCTV16奥林匹克4K超高清,https://live.cbncdn.cn/live.php?id=CCTV16_4K
 
 
