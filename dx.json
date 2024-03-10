@@ -1,7 +1,7 @@
 {
     "urls": [	                            
          {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
             "name": "南风本地"
         },  
         {
@@ -37,7 +37,7 @@
             "name": "ok"
         },
          {
-            "url": "https://moeyy.cn/gh-proxy/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
+            "url": "https://moeyy.cn/gh-proxy/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
             "name": "南风本地"
         },  
         {
@@ -53,7 +53,7 @@
             "name": "pg稳定版"
         },
          {
-            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
+            "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
             "name": "南风本地"
         },  
         {
