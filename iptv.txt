@@ -64,6 +64,7 @@ IPTV相声小品,rtsp://123.147.112.17:8089/04000001/010000000040000000000000000
 风云剧场HD,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409
 第一剧场HD,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php
+八部金刚功,http://v9-default.ixigua.com/1cc26226f0339ed7dc9eafc9b9bfa43c/65ed38dc/video/tos/cn/tos-cn-ve-4/oEhDeF1aI4BAaqhClDTnbB6jenAeQChA35nKE8/?a=1768&ch=0&cr=0&dr=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=447&bt=447&cs=0&ds=3&ft=kTh_HVVywpuRFooPmo~hFJ4YA0piAaroejKJhLPdON0P3-I&mime_type=video_mp4&qs=0&rc=NGZlOjU8aGQ4ZDk8N2k7aUBpMzh1OjM6ZjxqbzMzNDczM0BhMl4tMDRhNV4xXmAtMl8wYSNxX2dycjRvcy5gLS1kLWFzcw%3D%3D&btag=e00038000&dy_q=1710040797&l=202403101119574895EE6BD193A45349B8
 
 三网通用,#genre#
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
