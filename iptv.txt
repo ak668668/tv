@@ -64,8 +64,8 @@ IPTV相声小品,rtsp://123.147.112.17:8089/04000001/010000000040000000000000000
 风云剧场HD,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409
 第一剧场HD,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php
-八部金刚功,http://v26-default.365yg.com/571bd6caf42f652c3acc8acd7788e231/65ee6e13/video/tos/cn/tos-cn-ve-4/oA4LARGDja8breC0KAjheI3hQA4K9Bnu7nxBeC/?a
-八部金刚功背面与正面完整演示,http://v9-default.365yg.com/194faa9f29a67725345e3c75fb511bab/65ee7082/video/tos/cn/tos-cn-ve-4/oY4Aebz3Gg3RnpaowbDDAaBCWAd8QxmOjcETf1/?a
+八部金刚功1,http://v26-default.365yg.com/571bd6caf42f652c3acc8acd7788e231/65ee6e13/video/tos/cn/tos-cn-ve-4/oA4LARGDja8breC0KAjheI3hQA4K9Bnu7nxBeC/?a
+背面与正面完整演示,http://v9-default.365yg.com/194faa9f29a67725345e3c75fb511bab/65ee7082/video/tos/cn/tos-cn-ve-4/oY4Aebz3Gg3RnpaowbDDAaBCWAd8QxmOjcETf1/?a
 
 三网通用,#genre#
 重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
