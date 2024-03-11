@@ -64,7 +64,7 @@ IPTV相声小品,rtsp://123.147.112.17:8089/04000001/010000000040000000000000000
 风云剧场HD,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409
 第一剧场HD,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php
-八部金刚功,http://v26-default.365yg.com/571bd6caf42f652c3acc8acd7788e231/65ee6e13/video/tos/cn/tos-cn-ve-4/oA4LARGDja8breC0KAjheI3hQA4K9Bnu7nxBeC/?a=0&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=853&bt=853&cs=0&ds=4&ft=XEAJEqq3mbuPD1288UER3wUfNvFtMeF~O5&mime_type=video_mp4&qs=0&rc=NjQ8O2Q5O2kzOjMzOTxlaEBpMzh1OjM6ZjxqbzMzNDczM0AyYWMuXmEzNWMxNi4wNWAzYSNxX2dycjRvcy5gLS1kLWFzcw%3D%3D&btag=e00038000&dy_q=1710119956&l=20240311091916020848B10D11D54FA06F
+八部金刚功,http://v26-default.365yg.com/571bd6caf42f652c3acc8acd7788e231/65ee6e13/video/tos/cn/tos-cn-ve-4/oA4LARGDja8breC0KAjheI3hQA4K9Bnu7nxBeC/?a=0&ch=0&cr=0&dr=0&er=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=853&bt=853&cs=0&ds=4&ft=XEAJEqq3mbuPD1288UER3wUfNvFtMeF~O5&mime_type=video_mp4&qs=0&rc=NjQ8O2Q5O2kzOjMzOTxlaEBpMzh1OjM6ZjxqbzMzNDczM0AyYWMuXmEzNWMxNi4wNWAzYSNxX2dycjRvcy5gLS1kLWFzcw%3D%3D&btag=e00038000&dy_q=1710119956
 八部金刚功背面与正面完整演示,http://v3-default.ixigua.com/04d101f2c92645836f5f929e1ef8b703/65ed3b97/video/tos/cn/tos-cn-ve-4/okAmRNIQhZAfPh5WNGInAuNzQizGAA0UxSvx03/?a=1768&ch=0&cr=0&dr=0&lr=unwatermarked&net=5&cd=0%7C0%7C0%7C0&cv=1&br=1227&bt=1227&cs=0&ds=3&ft=kTh_HVVywwPRsq8Zmo~hFJ4YA0piOdroejKJt7c1LG0P3-I&mime_type=video_mp4&qs=0&rc=ZmQ6OztkaDg4OmlkaTg6ZEBpajp1ZjM6ZjltZzMzNDczM0BeLi02NS41XzMxMV5jLWI2YSM0MHBucjRnL29gLS1kLS9zcw%3D%3D&btag=e00038000&dy_q=1710041300&l=20240310112820AD1AF90510238F47B464
 
 三网通用,#genre#
