@@ -80,15 +80,7 @@ CCTV4K,http://lu1.cc/itv/php/cctv4k.php
 八部金刚功背面与正面,http://v9-default.365yg.com/194faa9f29a67725345e3c75fb511bab/65ee7082/video/tos/cn/tos-cn-ve-4/oY4Aebz3Gg3RnpaowbDDAaBCWAd8QxmOjcETf1/?a
 
 三网通用,#genre#
-重庆卫视,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_2.stream/chunklist.m3u8
-CCTV13,https://live-play-rts.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mbd.m3u8?auth_key=1710881221-0-e2ab812b34b841b795c19f4bcebf3e1a-ee283be93ca331978e27258041447a1a&yid=e2ab812b34b841b795c19f4bcebf3e1a
-CCTV13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
-CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 重庆卫视,https://tv.iill.top/cqyx/chongqingHD
-重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
-重庆移动,http://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8
 重庆新闻,https://tv.iill.top/cqyx/CQTVNewsHD
 重庆影视,https://tv.iill.top/cqyx/cqyingshiHD
 重庆社会与法,https://tv.iill.top/cqyx/CQTVTrendyHD
@@ -99,6 +91,7 @@ CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 重庆科教,https://tv.iill.top/cqyx/CQTVkejiaoHD
 重庆汽摩,https://tv.iill.top/cqyx/cqcarSD
 重庆移动,https://tv.iill.top/cqyx/mryyHD
+重庆移动,http://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8
 重广融媒,https://tv.iill.top/cqyx/cqrongmei
 CCTV1综合,https://tv.iill.top/cqyx/cctv1HD
 CCTV2财*,https://tv.iill.top/cqyx/cctv2HD
