@@ -88,6 +88,7 @@ CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 重庆卫视,https://tv.iill.top/cqyx/chongqingHD
 重庆新闻,https://sjlivecdn9.cbg.cn/202906282314/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆新闻,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆移动,http://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8
 重庆新闻,https://tv.iill.top/cqyx/CQTVNewsHD
 重庆影视,https://tv.iill.top/cqyx/cqyingshiHD
 重庆社会与法,https://tv.iill.top/cqyx/CQTVTrendyHD
