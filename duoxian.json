@@ -1,23 +1,23 @@
 {
     "urls": [	                            
          {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
+            "url": "https://cdn.jsdelivr.net/gh/ak668668/nf@main/XC.json",
             "name": "南风本地"
         },  
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "url": "https://cdn.jsdelivr.net/gh/yoursmile66/TVBox@main/XC.json",
             "name": "南风官方"
         }, 
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/XYQ.json",
             "name": "香雅情"
         }, 
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
+            "url": "https://cdn.jsdelivr.net/gh/ak668668/pg@main/jsm.json",
             "name": "pg最新版"
         },                  
         {
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ak668668/pg2/main/jsm.json",
+            "url": "https://cdn.jsdelivr.net/gh/ak668668/pg2@main/jsm.json",
             "name": "pg稳定版"
         },        
          {
