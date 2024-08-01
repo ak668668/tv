@@ -2,7 +2,11 @@
     "urls": [	                            
          {
             "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
-            "name": "南风本地"
+            "name": "南风本地1"
+        },  
+         {
+            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
+            "name": "南风本地2"
         },  
         {
             "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
@@ -10,8 +14,12 @@
         }, 
         {
             "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
-            "name": "pg最新版"
-        },                         
+            "name": "pg1"
+        },  
+        {
+            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
+            "name": "pg2"
+        },  
          {
             "url": "https://gh.idayer.com/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
             "name": "南风本地"
