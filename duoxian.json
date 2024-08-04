@@ -1,17 +1,45 @@
 {
     "urls": [	                            
          {
-            "url": "https://github.cutemic.cn/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
+            "url": "https://github.cutemic.cn/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
             "name": "南风本地1"
         },  
          {
-            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
+            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
             "name": "南风本地2"
+        }, 
+         {
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
+            "name": "南风本地3"
+        }, 
+         {
+            "url": "https://ghjs.ximuliunian.top/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
+            "name": "南风本地4"
+        },  
+         {
+            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "南风官网"
+        },
+        {
+            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "香雅情1"
+        },
+        {
+            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "香雅情2"
         },  
         {
-            "url": "https://gh.duckcc.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "香雅情"
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "香雅情3"
         }, 
+        {        
+            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "香雅情4"
+        },
+        {
+            "url": "https://ghjs.ximuliunian.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "香雅情5"
+        },
         {
             "url": "https://gh.duckcc.com/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
             "name": "pg1"
@@ -19,23 +47,15 @@
         {
             "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
             "name": "pg2"
-        },  
-         {
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
-            "name": "南风本地"
-        },  
-        {
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "香雅情"
-        }, 
-        {        
-            "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "香雅情2"
-        },         
+        },           
         {
             "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
-            "name": "pg"
-        },                               
+            "name": "pg3"
+        },   
+        {
+            "url": "https://ghjs.ximuliunian.top/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
+            "name": "pg4"
+        },  
         {
             "url": "https://xn--z7x900a.live/",
             "name": "肥猫"
@@ -43,19 +63,7 @@
         {
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬"
-        },   
-         {
-            "url": "https://ghjs.ximuliunian.top/https://raw.githubusercontent.com/ak668668/nf/main/XC2.json",
-            "name": "南风本地"
-        },  
-        {
-            "url": "https://ghjs.ximuliunian.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "香雅情"
-        }, 
-        {
-            "url": "https://ghjs.ximuliunian.top/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
-            "name": "pg"
-        },   
+        },     
         {
             "url": "file://XYQTVBox/jsm.json",
             "name": "影视本地"
