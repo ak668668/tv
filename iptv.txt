@@ -193,6 +193,21 @@ CCTV4K,https://live.imxd.top/live.php?id=CCTV4K
 CCTV16奥林匹克4K,https://live.imxd.top/live.php?id=CCTV16_4K
 
 测试频道,#genre#
+CCTV1,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024078203.m3u8
+CCTV2,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024075403.m3u8
+CCTV4,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024078303.m3u8
+CCTV5,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024078403.m3u8
+CCTV5+,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024078003.m3u8
+CCTV5+,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024078403.m3u8
+CCTV7,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024072003.m3u8
+CCTV8,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024078503.m3u8
+CCTV9,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024078603.m3u8
+CCTV10,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024078703.m3u8
+CCTV11,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024078803.m3u8
+CCTV12,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024078903.m3u8
+CCTV16,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024079303.m3u8
+CCTV17,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024079503.m3u8
+央视频,http://bkbktlivecloud-cdn.ysp.CCTV.cn/ysp/2024076803.m3u8
 CCTV1,http://123.160.173.165:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://123.10.70.175:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://125.107.115.72:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
