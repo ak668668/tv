@@ -6,6 +6,6 @@ vless://ed6b09b6-6074-41ca-866f-78fe06f37236@8.218.2.181:80?encryption=none&secu
 vless://ccbb0335-fc74-4f42-aa0c-af19cfe666e5@47.243.60.150:80?encryption=none&security=none&sni=0827i.km-x2p3m.workers.dev&fp=randomized&type=ws&host=0827i.km-x2p3m.workers.dev&path=%2F%3Fed%3D2048#006
 vless://ccbb0335-fc74-4f42-aa0c-af19cfe666e5@47.242.54.157:80?encryption=none&security=none&sni=0827i.km-x2p3m.workers.dev&fp=randomized&type=ws&host=0827i.km-x2p3m.workers.dev&path=%2F%3Fed%3D2048#007
 vless://ed6b09b6-6074-41ca-866f-78fe06f37236@8.222.150.197:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#008
-vless://be9ea7f7-257e-4d1b-ac43-3533f9faf022@8.218.204.128:80?encryption=none&security=none&type=ws&host=bw1031.r986uplm.workers.dev&path=%2F%3Fed%3D2560#009
-vless://23dc7327-9160-4bd3-b9ec-9fd02875f62d@47.243.169.63:80?encryption=none&security=none&type=ws&host=3km.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#010
+vless://be9ea7f7-257e-4d1b-ac43-3533f9faf022@141.101.121.236:80?encryption=none&security=none&type=ws&host=bw1031.r986uplm.workers.dev&path=%2F%3Fed%3D2560#009
+vless://23dc7327-9160-4bd3-b9ec-9fd02875f62d@141.101.114.71:80?encryption=none&security=none&type=ws&host=3km.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#010
 vless://ed6b09b6-6074-41ca-866f-78fe06f37236@47.57.13.107:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#011
