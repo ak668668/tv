@@ -1,3 +1,4 @@
+
 {
     "urls": [	                            
          {
@@ -11,10 +12,6 @@
          {
             "url": "https://gh.duckcc.com/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
             "name": "南风本地3"
-        }, 
-         {
-            "url": "https://cdn.spiritlhl.net/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
-            "name": "南风本地4"
         },  
          {
             "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -37,7 +34,7 @@
             "name": "香雅情4"
         },
         {
-            "url": "https://cdn.spiritlhl.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://github.cutemic.cn/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情5"
         },
         {
@@ -49,13 +46,21 @@
             "name": "pg2"
         },           
         {
-            "url": "https://cdn.spiritlhl.net/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
+            "url": "https://github.cutemic.cn/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
             "name": "pg3"
+        },     
+        {
+            "url": "https://github.cutemic.cn/https://raw.githubusercontent.com/ak668668/pg2/main/jsm.json",
+            "name": "pg2-1"
         },   
         {
-            "url": "https://mirror.h2o-2.org/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
-            "name": "pg4"
-        },  
+            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/ak668668/pg2/main/jsm.json",
+            "name": "pg2-2"
+        }, 
+        {
+            "url": "https://gh.duckcc.com/https://raw.githubusercontent.com/ak668668/pg2/main/jsm.json",
+            "name": "pg2-3"
+        }, 
         {
             "url": "https://xn--z7x900a.live/",
             "name": "肥猫"
