@@ -70,8 +70,12 @@
         }, 
         {
             "url": "file://tvbox/pg/jsm.json",
-            "name": "影视PG本地"
-        },                                                                                                        
+            "name": "影视PG本地新"
+        }, 
+        {
+            "url": "file://tvbox/pg2/jsm.json",
+            "name": "影视PG本地稳"
+        }, 
         {
             "url": "file://tvbox/xyq/XYQ.json",
             "name": "影视香雅情本地"
