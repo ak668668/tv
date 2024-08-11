@@ -67,10 +67,18 @@
         {
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬"
-        },     
+        }, 
         {
-            "url": "file://XYQTVBox/jsm.json",
-            "name": "影视本地"
+            "url": "file://tvbox/pg/jsm.json",
+            "name": "影视PG本地"
+        },                                                                                                        
+        {
+            "url": "file://tvbox/xyq/XYQ.json",
+            "name": "影视香雅情本地"
+        },
+        {
+            "url": "file://tvbox/nf/XC.json",
+            "name": "影视南风本地"
         },                                                   
         {
             "url": "clan://localhost/XYQTVBox/jsm.json",
