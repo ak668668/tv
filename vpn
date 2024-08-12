@@ -1,8 +1,8 @@
-vless://ed6b09b6-6074-41ca-866f-78fe06f37236@8.210.39.96:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#001
-vless://be9ea7f7-257e-4d1b-ac43-3533f9faf022@8.218.22.210:80?encryption=none&security=none&type=ws&host=bw1031.r986uplm.workers.dev&path=%2F%3Fed%3D2560#002
-vless://ed6b09b6-6074-41ca-866f-78fe06f37236@47.242.234.127:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#003
-vless://ed6b09b6-6074-41ca-866f-78fe06f37236@8.218.126.53:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#004
-vless://ed6b09b6-6074-41ca-866f-78fe06f37236@8.217.154.218:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#005
+vless://ed6b09b6-6074-41ca-866f-78fe06f37236@47.243.206.150:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#001
+vless://be9ea7f7-257e-4d1b-ac43-3533f9faf022@8.217.164.10:80?encryption=none&security=none&type=ws&host=bw1031.r986uplm.workers.dev&path=%2F%3Fed%3D2560#002
+vless://ed6b09b6-6074-41ca-866f-78fe06f37236@47.243.51.171:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#003
+vless://ed6b09b6-6074-41ca-866f-78fe06f37236@8.217.154.218:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#004
+vless://ed6b09b6-6074-41ca-866f-78fe06f37236@8.218.98.75:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#005
 vless://ccbb0335-fc74-4f42-aa0c-af19cfe666e5@8.218.174.118:80?encryption=none&security=none&sni=0827i.km-x2p3m.workers.dev&fp=randomized&type=ws&host=0827i.km-x2p3m.workers.dev&path=%2F%3Fed%3D2048#006
 vless://ccbb0335-fc74-4f42-aa0c-af19cfe666e5@8.218.201.73:80?encryption=none&security=none&sni=0827i.km-x2p3m.workers.dev&fp=randomized&type=ws&host=0827i.km-x2p3m.workers.dev&path=%2F%3Fed%3D2048#007
 vless://ed6b09b6-6074-41ca-866f-78fe06f37236@8.218.48.92:80?encryption=none&security=none&sni=wk0127.33n3ut6l.workers.dev&fp=randomized&type=ws&host=wk0127.33n3ut6l.workers.dev&path=%2F%3Fed%3D2048#008
