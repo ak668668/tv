@@ -1,4 +1,3 @@
-
 {
     "urls": [	                            
          {
@@ -6,7 +5,7 @@
             "name": "南风本地1"
         },  
          {
-            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
+            "url": "https://gh.6yit.com/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
             "name": "南风本地2"
         }, 
          {
@@ -14,15 +13,15 @@
             "name": "南风本地3"
         },  
          {
-            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "url": "https://gh.6yit.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "南风官网"
         },
         {
-            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://gh.6yit.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "香雅情1"
         },
         {
-            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "url": "https://gh.6yit.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
             "name": "香雅情2"
         },  
         {
@@ -42,7 +41,7 @@
             "name": "pg1"
         },  
         {
-            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
+            "url": "https://gh.6yit.com/https://raw.githubusercontent.com/ak668668/pg/main/jsm.json",
             "name": "pg2"
         },           
         {
@@ -54,7 +53,7 @@
             "name": "pg2-1"
         },   
         {
-            "url": "https://gh.m-l.cc/https://raw.githubusercontent.com/ak668668/pg2/main/jsm.json",
+            "url": "https://gh.6yit.com/https://raw.githubusercontent.com/ak668668/pg2/main/jsm.json",
             "name": "pg2-2"
         }, 
         {
@@ -68,10 +67,22 @@
         {
             "url": "http://饭太硬.top/tv",
             "name": "饭太硬"
-        },     
+        }, 
         {
-            "url": "file://XYQTVBox/jsm.json",
-            "name": "影视本地"
+            "url": "file://tvbox/pg/jsm.json",
+            "name": "影视PG本地新"
+        }, 
+        {
+            "url": "file://tvbox/pg2/jsm.json",
+            "name": "影视PG本地稳"
+        }, 
+        {
+            "url": "file://tvbox/xyq/XYQ.json",
+            "name": "影视香雅情本地"
+        },
+        {
+            "url": "file://tvbox/nf/XC.json",
+            "name": "影视南风本地"
         },                                                   
         {
             "url": "clan://localhost/XYQTVBox/jsm.json",
