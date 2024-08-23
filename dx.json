@@ -2,15 +2,15 @@
     "urls": [	                            
          {
             "url": "https://gh.sixyin.com/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
-            "name": "南风本地1"
+            "name": "南风1"
         },  
          {
             "url": "https://gh.6yit.com/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
-            "name": "南风本地2"
+            "name": "南风2"
         }, 
          {
             "url": "https://gh.duckcc.com/https://raw.githubusercontent.com/ak668668/nf/main/XC.json",
-            "name": "南风本地3"
+            "name": "南风3"
         },  
          {
             "url": "https://gh.6yit.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -69,28 +69,36 @@
             "name": "饭太硬"
         }, 
         {
+            "url": "file://tvbox/nf/XC.json",
+            "name": "影视南风"
+        },
+        {
             "url": "file://tvbox/pg/jsm.json",
-            "name": "影视PG本地新"
+            "name": "影视PG新"
         }, 
         {
             "url": "file://tvbox/pg2/jsm.json",
-            "name": "影视PG本地稳"
+            "name": "影视PG稳"
         }, 
         {
             "url": "file://tvbox/xyq/XYQ.json",
-            "name": "影视香雅情本地"
+            "name": "影视香雅情"
         },
         {
-            "url": "file://tvbox/nf/XC.json",
-            "name": "影视南风本地"
-        },    
+            "url": "clan://localhost/tvbox/pg/jsm.json",
+            "name": "影视仓PG新"
+        }, 
+        {
+            "url": "clan://localhost/tvbox/pg2/jsm.json",
+            "name": "影视仓PG稳"
+        },     
         {
             "url": "clan://localhost/tvbox/xyq/XYQ.json",
-            "name": "影视仓香雅情本地"
+            "name": "影视仓香雅情"
         },
         {
             "url": "clan://localhost/tvbox/nf/XC.json",
-            "name": "影视仓南风本地"
+            "name": "影视仓南风"
         } 
     ]
 }
