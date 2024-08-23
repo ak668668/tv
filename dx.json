@@ -83,10 +83,14 @@
         {
             "url": "file://tvbox/nf/XC.json",
             "name": "影视南风本地"
-        },                                                   
+        },    
         {
-            "url": "clan://localhost/XYQTVBox/jsm.json",
-            "name": "影视仓本地"
+            "url": "clan://localhost/tvbox/xyq/XYQ.json",
+            "name": "影视仓香雅情本地"
+        },
+        {
+            "url": "clan://localhost/tvbox/nf/XC.json",
+            "name": "影视仓南风本地"
         } 
     ]
 }
