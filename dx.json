@@ -50,14 +50,18 @@
         },
         {
             "url": "file://tvbox/pg/jsm.json",
-            "name": "影视PG新"
+            "name": "影视PG本地新"
         }, 
         {
             "url": "file://tvbox/pg2/jsm.json",
-            "name": "影视PG稳"
+            "name": "影视PG本地稳"
         }, 
         {
-            "url": "file://tvbox/xyq/XYQ.json",
+            "url": "file://tvbox/pg3/jsm.json",
+            "name": "影视PG本地早"
+        }, 
+        {
+            "url": "file://tvbox/xyq/XYQTVBox.json",
             "name": "影视香雅情"
         },
         {
@@ -67,9 +71,13 @@
         {
             "url": "clan://localhost/tvbox/pg2/jsm.json",
             "name": "影视仓PG稳"
-        },     
+        },   
         {
-            "url": "clan://localhost/tvbox/xyq/XYQ.json",
+            "url": "clan://localhost/tvbox/pg3/jsm.json",
+            "name": "影视仓PG早"
+        },   
+        {
+            "url": "clan://localhost/tvbox/xyq/XYQTVBox.json",
             "name": "影视仓香雅情"
         },
         {
@@ -78,3 +86,4 @@
         } 
     ]
 }
+
