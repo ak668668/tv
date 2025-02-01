@@ -209,19 +209,6 @@ SiTV游戏风云,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111232/
 重庆卫视,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111017/1.m3u8
 求索记录4K,http://[2409:8087:6001:20:0:1:0:($00-$ff)]:80/000000001666/100000000100111228/1.m3u8
 
-重庆广电,#genre#
-重庆新闻,https://live.imxd.top/live.php?id=CQTVNewsHD
-重庆影视,https://live.imxd.top/live.php?id=cqyingshiHD
-重庆社会与法,https://live.imxd.top/live.php?id=CQTVTrendyHD
-重庆时尚生活,https://live.imxd.top/live.php?id=cqssgwHD
-重庆文体娱乐,https://live.imxd.top/live.php?id=cqwtylHD
-重庆新农村,https://live.imxd.top/live.php?id=cqggncHD
-重庆少儿,https://live.imxd.top/live.php?id=cqseHD
-重庆科教,https://live.imxd.top/live.php?id=CQTVkejiaoHD
-重庆汽摩,https://live.imxd.top/live.php?id=cqcarSD
-重庆移动,https://live.imxd.top/live.php?id=mryyHD
-重广融媒,https://live.imxd.top/live.php?id=cqrongmei
-
 重庆电信中兴,#genre#
 CQTV新闻超高清,rtsp://172.23.28.67:554/live/ch17112916043060425703.sdp?vcdnid=vcdn001
 CQTV影视超高清,rtsp://172.23.28.67:554/live/ch18122110072224750936.sdp?vcdnid=vcdn001
