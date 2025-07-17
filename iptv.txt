@@ -486,6 +486,15 @@ CCTV-5HD,rtsp://172.23.2.101/PLTV/2/224/3221226609/10000100000000060000000000420
 重庆少儿,http://183.66.15.146:60901/tsfile/live/1000_1.m3u8?key=txiptv
 重庆红叶,http://183.66.15.146:60901/tsfile/live/0016_1.m3u8?key=txiptv
 重庆红岩文化,http://183.66.15.146:60901/tsfile/live/1002_1.m3u8?key=txiptv
+重庆卫视,https://live.mxdyeah.top/live.php?id=chongqingHD
+重庆新闻,https://live.mxdyeah.top/live.php?id=CQTVNewsHD
+重庆影视,https://live.mxdyeah.top/live.php?id=cqyingshiHD
+重庆社会与法,https://live.mxdyeah.top/live.php?id=CQTVTrendyHD
+重庆时尚生活,https://live.mxdyeah.top/live.php?id=cqssgwHD
+重庆文体娱乐,https://live.mxdyeah.top/live.php?id=cqwtylHD
+重庆新农村,https://live.mxdyeah.top/live.php?id=cqggncHD
+重庆少儿,https://live.mxdyeah.top/live.php?id=cqseHD
+重庆科教,https://live.mxdyeah.top/live.php?id=CQTVkejiaoHD
 CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be
 CCTV2,https://www.freetv.top/migu/631780532.m3u8?migutoken=f1ea6162bf184749e3dee945ef1c611efc841f280c1c972432874810b37debb4321af74f5ebcd6c41d7e0980cae4b591eaddcbd8a4b834c71491dbe3a6abacbbd5bcb2e9a43458f6987dbc3f23
 CCTV3,https://www.freetv.top/migu/624878271.m3u8?migutoken=ab337350191d49738c0947c4edfb2d72445dadbfd53e36b287a30881028262fffbe9ba284ac062a14452f0d90c7a75d16101edb3adc14999ae8771aabc77b40c78d14137bb14e68fd6cd1a8d67
