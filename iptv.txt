@@ -78,7 +78,15 @@ IPTV相声小品,rtsp://123.147.112.17:8089/04000001/010000000040000000000000000
 
 重庆移动,#genre#
 重庆新闻,http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111014/1.m3u8
-CCTV1,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111102/1.m3u8
+重庆影视,http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111015/1.m3u8
+重庆社会与法,http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111016/1.m3u8
+重庆红岩文化,http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111017/1.m3u8
+重庆文体娱乐,http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111018/1.m3u8
+重庆新农村,http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111019/1.m3u8
+重庆少儿,http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111020/1.m3u8
+重庆红叶,http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111021/1.m3u8
+重庆汽摩,http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111022/1.m3u8
+重庆移动,http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111023/1.m3u8
 CCTV1,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111211/1.m3u8
 CCTV2,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111001/1.m3u8
 CCTV4,http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111003/1.m3u8
