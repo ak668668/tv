@@ -1,0 +1,44 @@
+{
+    "urls": [	                            
+        {
+            "url": "http://www.饭太硬.com/tv/",
+            "name": "饭太硬"
+        },                                                                                             
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "王小二"
+        }, 
+        {
+            "url": "https://6800.kstore.vip/fish.json",
+            "name": "摸鱼"
+        }, 
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/box.json",
+            "name": "本地1"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/tvbox/refs/heads/main/fun.json",
+            "name": "本地2-18"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/artistnian-droid/tvbox-aggregator@main/merged.json",
+            "name": "3"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hubeizgd1979/tvbox-merge/main/config_all.json",
+            "name": "4"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/hubeizgd1979/tvbox-merge/refs/heads/main/status.json",
+            "name": "4-2"
+        },
+        {
+            "url": "https://ysc.tengxuntaobao.win/",
+            "name": "5精简"
+        },
+        {
+            "url": "https://ysc.tengxuntaobao.win/full",
+            "name": "6完整"
+        }
+    ]
+}
